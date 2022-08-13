@@ -1,4 +1,4 @@
-![received_438733264748262_3-removebg-preview](https://user-images.githubusercontent.com/97393306/184465232-5522f6c2-1ea3-4dbf-9273-542387b85a84.png)
+
 High there 👋 Im Kyle!
 
 
@@ -13,3 +13,4 @@ High there 👋 Im Kyle!
 
 - 📫 How to reach me: dennissenaris09@gmail.com
 - 😄 Pronouns: he/his/him.
+![received_438733264748262_3-removebg-preview](https://user-images.githubusercontent.com/97393306/184465232-5522f6c2-1ea3-4dbf-9273-542387b85a84.png)
