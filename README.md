@@ -1,16 +1,21 @@
+<h1 align="center">Hi 👋, I'm Kyle Reginaldo</h1>
+<h3 align="center">A passionate flutter developer from Philippines</h3>
 
-High there 👋 Im Kyle!
+- 🔭 I’m currently working on **some flutter projects**
 
+- 🌱 I’m currently learning **Firebase and Serverpod**
 
+- 🤝 I’m looking for help with **anything in which you have expertise.**
 
+- 📫 How to reach me **dennissenaris09@gmail.com**
 
+- ⚡ Fun fact **I can dance**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/kyle señaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kyle señaris" height="30" width="40" /></a>
+<a href="https://instagram.com/koyaemer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koyaemer" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on a flutter app.
-- 🌱 I’m currently learning flutter and django.
-
-- 🤔 I’m looking for help with anything in which you have expertise.
-
-- 📫 How to reach me: dennissenaris09@gmail.com
-- 😄 Pronouns: he/his/him.
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
