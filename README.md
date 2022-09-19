@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KyleReginaldo&show_icons=true&locale=en" alt="KyleReginaldo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KyleReginaldo&" alt="KyleReginaldo" /></p>
+
+## My Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleReginaldo&layout=compact)
