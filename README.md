@@ -1,3 +1,6 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=KyleReginaldo.KyleReginaldo)
+[![GitHub followers](https://img.shields.io/github/followers/karlreginaldo.svg?style=social&label=Follow)](https://github.com/KyleReginaldo?tab=followers)
+
 <h1 align="center">Hi 👋, I'm Kyle Reginaldo</h1>
 <h3 align="center">A passionate flutter developer from Philippines</h3>
 
