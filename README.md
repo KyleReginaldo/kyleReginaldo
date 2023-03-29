@@ -6,13 +6,11 @@
 
 - 🔭 I’m currently working on **some flutter projects**
 
-- 🌱 I’m currently learning **Firebase and Serverpod**
+- 🌱 I’m currently learning **NestJs and Supabase**
 
 - 🤝 I’m looking for help with **anything in which you have expertise.**
 
 - 📫 How to reach me **dennissenaris09@gmail.com**
-
-- ⚡ Fun fact **I can dance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
