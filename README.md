@@ -17,7 +17,7 @@
 <a href="https://fb.com/kyle señaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kyle señaris" height="30" width="40" /></a>
 <a href="https://instagram.com/koyaemer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koyaemer" height="30" width="40" /></a>
 <br>
-<a href="https://myportfolio-gray-eta-28.vercel.app/" target="blank"><b>🌍 My Portfolio</b></a>
+<a href="https://koyaemer.vercel.app" target="blank"><b>🌍 My Portfolio</b></a>
 </p>
 
 ---
