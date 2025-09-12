@@ -17,29 +17,6 @@
 <a href="https://fb.com/kyle señaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kyle señaris" height="30" width="40" /></a>
 <a href="https://instagram.com/koyaemer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koyaemer" height="30" width="40" /></a>
 <br>
-<a href="https://koyaemer.vercel.app" target="blank"><b>🌍 My Portfolio</b></a>
-</p>
-
----
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=KyleReginaldo.KyleReginaldo)
-[![GitHub followers](https://img.shields.io/github/followers/karlreginaldo.svg?style=social&label=Follow)](https://github.com/KyleReginaldo?tab=followers)
-
-<h1 align="center">Hi 👋, I'm Kyle Reginaldo</h1>
-<h3 align="center">A passionate Flutter Developer from the Philippines 🇵🇭</h3>
-
-- 🔭 I’m currently working on **Flutter projects & mobile applications**
-- 🌱 I’m currently learning **NestJS, Supabase, and advanced backend development**
-- 💡 I enjoy building apps with **clean architecture, scalable backend, and modern UI**
-- 🤝 I’m open to collaborate on **Flutter, Firebase, Supabase, Stripe, or GCP projects**
-- 📫 Reach me at **dennissenaris09@gmail.com**
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/kyle señaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kyle señaris" height="30" width="40" /></a>
-<a href="https://instagram.com/koyaemer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koyaemer" height="30" width="40" /></a>
-<br>
 <a href="https://myportfolio-gray-eta-28.vercel.app/" target="blank"><b>🌍 My Portfolio</b></a>
 </p>
 
