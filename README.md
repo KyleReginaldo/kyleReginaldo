@@ -39,23 +39,6 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KyleReginaldo&show_icons=true&theme=tokyonight" alt="KyleReginaldo" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyleReginaldo&theme=tokyonight" alt="KyleReginaldo" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleReginaldo&layout=compact&theme=tokyonight" />
-</p>
-
-
----
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
