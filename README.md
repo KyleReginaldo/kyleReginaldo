@@ -22,15 +22,18 @@
 
 ### 🛠 Tech Stack
 **Mobile:** Flutter, Dart  
-**Backend:** Node.js, NestJS, TypeScript  
-**Cloud:** AWS, Firebase, Supabase, GCP  
-**Payments:** Stripe  
+**Web:** NextJs, ReactJs
+**Backend:** Node.js, ExpressJs, NestJS, TypeScript
+**Cloud:** AWS, Firebase, Supabase, GCP
+**Payments:** Stripe, Paymongo
 
 <p>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="35"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="35"/>
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="35"/>
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nextjs-icon.svg" width="35"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35"/>
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="35"/>
 </p>
