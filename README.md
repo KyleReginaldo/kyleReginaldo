@@ -33,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="35"/>
   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="35"/>
-  <img src="https://www.vectorlogo.zone/logos/nestjs/nextjs-icon.svg" width="35"/>
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="35"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35"/>
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="35"/>
 </p>
