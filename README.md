@@ -26,7 +26,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 <br>
-<a href="https://koyaemer.vercel.app/" target="blank"><b>🌍 My Portfolio</b></a>
+<a href="https://kylereginaldo.site/" target="_blank"><b>🌍 My Portfolio</b></a>
 </p>
 
 ---
