@@ -34,10 +34,3 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35"/>
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="35"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KyleReginaldo&show_icons=true&theme=tokyonight" />
-</p>
