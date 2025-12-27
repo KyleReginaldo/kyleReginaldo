@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle Reginaldo</h1>
-<h3 align="center">Flutter Developer • Backend Learner • AWS Enthusiast 🇵🇭</h3>
+<h3 align="center">Flutter Developer • Backend Developer • AWS Enthusiast 🇵🇭</h3>
 
 <p align="center">
   <a href="https://github.com/KyleReginaldo?tab=followers">
